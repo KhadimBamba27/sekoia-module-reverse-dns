@@ -9,3 +9,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 - Initial release of the Reverse DNS automation module.
+
+[0.1.0]: https://github.com/KhadimBamba27/sekoia-module-reverse-dns/releases/tag/v0.1.0
