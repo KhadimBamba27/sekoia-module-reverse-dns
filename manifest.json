@@ -2,7 +2,7 @@
   "name": "ReverseDNS",
   "uuid": "fc2b768f-bcf1-4ba0-a392-4b03773d0b11",
   "slug": "reversedns",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Module for resolving IP addresses to their corresponding domain names",
   "configuration": {
     "properties": {},
